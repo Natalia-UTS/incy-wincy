@@ -1,6 +1,8 @@
 # Incy Wincy
 > Inspired by the nursery rhyme Incy Wincy Spider, Incy Wincy is a platform video game prototype where the user plays as Incy who seeks to make it to the top of the waterspout before the rain becomes too heavy.
 
+[Check it out here](https://arcade.makecode.com/S76651-81217-04673-18248)
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -32,7 +34,8 @@
 
 
 ## Screenshots
-![Example screenshot 1](./img/screenshot.png)
+![Example screenshot 1](https://github.com/Natalia-UTS/incy-wincy/blob/main/Screen%20Shot%202024-11-06%20at%207.51.45%20pm.png) 
+![Example screenshot 1](https://github.com/Natalia-UTS/incy-wincy/blob/main/Screen%20Shot%202024-11-07%20at%205.31.38%20am.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
